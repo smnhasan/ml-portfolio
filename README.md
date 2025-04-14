@@ -9,7 +9,7 @@ This is a personal portfolio website built with **React**, **Vite**, and **Tailw
 
 ## 🚀 Live Demo
 
-[View Site](https://your-username.github.io/ml-portfolio)
+[View Site](https://github.com/smnhasan/ml-portfolio)
 
 ## 🛠 Tech Stack
 
