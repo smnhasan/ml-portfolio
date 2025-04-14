@@ -1,0 +1,38 @@
+{
+  "Languages": ["Python", "JavaScript", "TypeScript", "Bash", "SQL"],
+  "Machine Learning": [
+    "Scikit-learn",
+    "Pandas",
+    "NumPy",
+    "Matplotlib",
+    "XGBoost"
+  ],
+  "Deep Learning": [
+    "PyTorch",
+    "TensorFlow",
+    "Hugging Face Transformers",
+    "Keras",
+    "FastAI"
+  ],
+  "Web Development": [
+    "React",
+    "Tailwind CSS",
+    "Node.js",
+    "Express.js",
+    "Flask",
+    "FastAPI"
+  ],
+  "DevOps & Tools": [
+    "Docker",
+    "Git",
+    "Linux",
+    "AWS (EC2, S3)",
+    "NGINX",
+    "Vite",
+    "GitHub Actions"
+  ],
+  "Languages (Human)": [
+    "Bengali (Native)",
+    "English (Professional)"
+  ]
+}

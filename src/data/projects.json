@@ -1,0 +1,26 @@
+[
+  {
+    "title": "AI Chatbot for Public Services",
+    "description": "Built a multilingual chatbot for government services using Retrieval-Augmented Generation and LLMs. Supports 2000+ service queries.",
+    "techStack": ["Python", "FastAPI", "LangChain", "LLM", "Redis", "React"],
+    "githubUrl": "https://github.com/nahidhasan/gov-chatbot",
+    "liveDemoUrl": "https://gov-chatbot.example.com",
+    "image": "/assets/projects/chatbot.png"
+  },
+  {
+    "title": "Image Classification API",
+    "description": "Deployed a ResNet-based image classification model with a robust backend. Handles thousands of inference requests daily.",
+    "techStack": ["PyTorch", "Docker", "Flask", "AWS EC2", "NGINX"],
+    "githubUrl": "https://github.com/nahidhasan/image-api",
+    "liveDemoUrl": "https://image-api.example.com",
+    "image": "/assets/projects/image-classification.png"
+  },
+  {
+    "title": "NLP Research Toolkit",
+    "description": "Toolkit for fine-tuning and evaluating transformer models on downstream NLP tasks. Includes dataset management, training and reporting.",
+    "techStack": ["Transformers", "HuggingFace", "Pandas", "Matplotlib"],
+    "githubUrl": "https://github.com/nahidhasan/nlp-toolkit",
+    "liveDemoUrl": "",
+    "image": "/assets/projects/nlp-toolkit.png"
+  }
+]

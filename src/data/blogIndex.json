@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Fine-tuning LLMs for Low-resource Languages",
+    "slug": "fine-tuning-llms-low-resource",
+    "date": "2024-12-05",
+    "excerpt": "Explore how to fine-tune large language models for low-resource languages like Bengali using HuggingFace and LoRA.",
+    "tags": ["LLM", "NLP", "Bengali", "Fine-tuning"],
+    "coverImage": "/assets/blog/llm-finetuning.png"
+  },
+  {
+    "title": "Deploying ML Models with FastAPI & Docker",
+    "slug": "deploy-ml-fastapi-docker",
+    "date": "2024-10-15",
+    "excerpt": "Learn how to deploy ML models using FastAPI with Docker, and create scalable APIs for production use.",
+    "tags": ["Deployment", "FastAPI", "Docker"],
+    "coverImage": "/assets/blog/deployment-guide.png"
+  },
+  {
+    "title": "Building a RAG Pipeline from Scratch",
+    "slug": "rag-pipeline-from-scratch",
+    "date": "2024-09-20",
+    "excerpt": "A step-by-step guide to building a Retrieval-Augmented Generation (RAG) pipeline using LangChain, FAISS, and OpenAI models.",
+    "tags": ["RAG", "LangChain", "Vector Search"],
+    "coverImage": "/assets/blog/rag-pipeline.png"
+  }
+]
